@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flower plugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flower_plugin_jar</output-path>
+    <root id="archive" name="flower plugin.jar">
+      <element id="module-output" name="flower plugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-api-1.20-R0.1-20230612.113428-32.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+    </root>
+  </artifact>
+</component>
